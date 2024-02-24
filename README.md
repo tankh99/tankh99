@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Portfolio](portfolio-website-neon-kappa.vercel.app)
+View my portfolio site [here](https://portfolio-website-neon-kappa.vercel.app)
 
 [![Khang Hou's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankh99&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/tankh99/github-readme-stats)
 <!--
