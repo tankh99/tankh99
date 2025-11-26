@@ -3,6 +3,7 @@
 
 View my portfolio site [here](https://khanghou.vercel.app/)
 
+- 🔭 I’m currently working on PortifAI, a platform to build your own personalised resume chatbots
 - 🔭 I’m currently working on Learnie, an Obsidian plugin to aid in learning
 
 <!--
